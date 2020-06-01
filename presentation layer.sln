@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.28307.1062
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "presentation layer", "presentation layer\presentation layer.csproj", "{F159D128-E824-4C5E-94A5-1297C885DA1D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AEBBC0FB-C99E-466E-BA87-51F4A1FF5BBC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\IService.cs = ..\..\..\Downloads\IService.cs
+		..\..\..\Downloads\Service.cs = ..\..\..\Downloads\Service.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
